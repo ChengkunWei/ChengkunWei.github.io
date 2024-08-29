@@ -47,84 +47,83 @@ Proceedings of the ACM SIGCOMM 2024 Conference, 750-763		2024
   <p style="line-height:0;">
   T Ma, Z Liu, <b>C Wei</b>, J Huang, Y Zhuo, H Li, N Zhang, Y Guan, D Niu, ...
 
-  2024 USENIX Annual Technical Conference (USENIX ATC 24), 387-395		2024
+  2024 USENIX Annual Technical Conference (USENIX ATC 24), 387-395		
   </p>
  
 - Securely sampling discrete Gaussian noise for multi-party differential privacy
   <p style="line-height:0;">
   <b>C Wei</b>, R Yu, Y Fan, W Chen, T Wang
 
-  Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security		2023
+  Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security		
    </p>
  
 - Dpmlbench: Holistic evaluation of differentially private machine learning
   <p style="line-height:0;">
   <b>C Wei</b>, M Zhao, Z Zhang, M Chen, W Meng, B Liu, Y Fan, W Chen
 
-  Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security	2023
+  Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security	
    </p>
    
 - Examining the effects of a real-time, knowledge-aware tool for academic writing assessment
   <p style="line-height:0;">
   X Li, F Ouyang, J Liu, <b>C Wei</b>, W Chen
 
-  Journal of Educational Computing Research 61 (6), 1143-1174		2023
-   </p>
+  Journal of Educational Computing Research 61 (6), 1143-1174	
    
 - Achelous: Enabling Programmability, Elasticity, and Reliability in Hyperscale Cloud Networks
   <p style="line-height:0;">
   <b>C Wei</b>, X Li, Y Yang, X Jiang, T Xu, B Yang, T Wu, C Xu, Y Lv, H Gao, ...
 
-  Proceedings of the ACM SIGCOMM 2023 Conference, 769-782		2023
+  Proceedings of the ACM SIGCOMM 2023 Conference, 769-782	
    </p>
  
 - Poster: Triton: Accelerating vSwitch with Flexibility through Hardware Assisting not Bypassing Software
   <p style="line-height:0;">
   X Li, X Jiang, Y Yang, L Chen, T Xu, C Xu, L Xiao, F Shi, Y Wang, T Wu, ...
 
-  Proceedings of the ACM SIGCOMM 2023 Conference, 1156-1158		2023
+  Proceedings of the ACM SIGCOMM 2023 Conference, 1156-1158	
    </p>
    
 - Lmsanitator: Defending prompt-tuning against task-agnostic backdoors
   <p style="line-height:0;">
   <b>C Wei</b>, W Meng, Z Zhang, M Chen, M Zhao, W Fang, L Wang, Z Zhang, ...
 
-  arXiv preprint arXiv:2308.13904		2023
+  arXiv preprint arXiv:2308.13904	
    </p>
  
 - EduNER: a Chinese named entity recognition dataset for education research
   <p style="line-height:0;">
   X Li, <b>C Wei</b>, Z Jiang, W Meng, F Ouyang, Z Zhang, W Chen
 
-  Neural Computing and Applications 35 (24), 17717-17731		2023
+  Neural Computing and Applications 35 (24), 17717-17731	
    </p>
    
 - Hyq: Hybrid i/o queue architecture for nvme over fabrics to enable high-performance hardware offloading
   <p style="line-height:0;">
   Y Chen, J Chen, Y Wang, Y Chen, Z Jin, J Xu, G Fang, W Lin, <b>C Wei</b>, ...
 
-  2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing		2023
+  2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing	
    </p>
  
 - High-performance and Scalable Software-based NVMe Virtualization Mechanism with I/O Queues Passthrough
   <p style="line-height:0;">
   Y Chen, Z Jin, Y Wang, Y Chen, H Yu, J Xu, J Chen, W Lin, K Fang, <b>C Wei</b>, ...
 
-  arXiv preprint arXiv:2304.05148		2023
+  arXiv preprint arXiv:2304.05148	
    </p>
 
 - BM-Store: A Transparent and High-performance Local Storage Architecture for Bare-metal Clouds Enabling Large-scale Deployment
   <p style="line-height:0;">
   Y Chen, J Xu, <b>C Wei</b>, Y Wang, X Yuan, Y Zhang, X Yu, Y Chen, Z Wang, ...
 
-  2023 IEEE International Symposium on High-Performance Computer Architecture		2023
+  2023 IEEE International Symposium on High-Performance Computer Architecture	
   </p>
 
 - Cuzk: Accelerating zero-knowledge proof with a faster parallel multi-scalar multiplication algorithm on gpus
     <p style="line-height:0;">
     T Lu, <b>C Wei</b>, R Yu, C Chen, W Fang, L Wang, Z Wang, W Chen
 
-    Cryptology ePrint Archive		2022
+    Cryptology ePrint Archive		
     </p>
 
  
@@ -132,7 +131,7 @@ Proceedings of the ACM SIGCOMM 2024 Conference, 750-763		2024
   <p style="line-height:0;">
   <b>C Wei</b>, S Ji, C Liu, W Chen, T Wang
 
-  IEEE Transactions on Information Forensics and Security 15, 3239-3254		2020
+  IEEE Transactions on Information Forensics and Security 15, 3239-3254	  
    </p>
  
 - OB-WSPES: A uniform evaluation system for obfuscation-based web search privacy
