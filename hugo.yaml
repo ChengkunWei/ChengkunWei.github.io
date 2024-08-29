@@ -1,5 +1,33 @@
 baseurl: "https://chengkunwei.github.io/"  # please update this to your actual URL
-languageCode: "en-us"
+languages:
+  en:
+    weight: 1
+    languageCode: en-us
+    menu:
+      main:
+        - name: Home
+          url: ""
+          weight: 1
+        - name: ZH
+          url: "../zh"
+          weight: 7
+  zh:
+    contentDir: content/zh
+    weight: 2
+    languageCode: zh-cn
+    menu:
+      main:
+        - name: 主页
+          url: ""
+          weight: 3
+        - name: EN
+          url: "../en"
+          weight: 7
+
+
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: "true" 
+
 title: "A minimal Hugo website"
 theme: "tmp"
 googleAnalytics: ""
@@ -11,15 +39,6 @@ footnotereturnlinkcontents: "↩"
 permalinks:
   note: "/note/:year/:month/:day/:slug/"
   post: "/post/:year/:month/:day/:slug/"
-
-menu:
-  main:
-    - name: Home
-      url: ""
-      weight: 1
-    - name: Lab
-      url: "group/"
-      weight: 2
 
 params:
   description: "A website built through Hugo and blogdown."

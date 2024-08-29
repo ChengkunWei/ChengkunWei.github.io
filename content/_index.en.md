@@ -16,32 +16,45 @@ design:
  	Email: weichengkun AT zju DOT edu DOT cn
 
 ---
-## Bio
 
-I recieved my PhD degree in the Computer Science department of Zhejiang University in 2021 and served as a postdoctoral researcher from 2021 to 2024. My research focuses on heterogeneous computing and data security, including cloud computing, high-performance network, trusted execution environment (TEE) and LLM Security. My papers are published on top-tier conference/journal like SIGCOMM, ATC, HPCA, and also on CCS, NDSS, TIFS, and TDSC. I received the **NDSS 2024 Distinguished Paper Award**, and got fundings from the National Natural Science Foundation as well as the Zhejiang Province Postdoctoral Funding Project. 
+I recieved my PhD degree in the Computer Science department of Zhejiang University in 2021 and served as a postdoctoral researcher in ZJU from 2021 to 2024. My research focuses on heterogeneous computing and data security, including cloud computing, high-performance network, trusted execution environment (TEE) and LLM Security. My papers are published on top-tier conference/journal like SIGCOMM, ATC, HPCA, and also on CCS, NDSS, TIFS, and TDSC. I received the **NDSS 2024 Distinguished Paper Award**, and got fundings from the National Natural Science Foundation as well as the Zhejiang Province Postdoctoral Funding Project. 
 
 
-I hope my students:
+I sincerely hope to cooperate with students who:
 - have interest in computer system
 - have ideals and pursuits, and can analyze problems well 
 - have a favorite sport and stick to it 
 
 ---
+
+
+[<img src="arclab.png" style="max-width:50%;min-width:50px;float:right;" alt="chengkun wei" />](http://arc.zju.edu.cn/)
+
+I joined [ZJU ArcLab](http://arc.zju.edu.cn/) in 2016, and now still work here. 
+
+Our lab welcome PhD/master/undergraduate students who are interested in data security (LLM security), high performance network ( cooperative optimization of software and hardware), heterogeneous computing (FPGA, GPU), system architecture (virtualization, trusted execution environment), etc.
+
+
+---
 ## [Publications](https://scholar.google.com/citations?hl=zh-CN&user=-jrGj9wAAAAJ)
 
 
-<!--  
 - Triton: A Flexible Hardware Offloading Architecture for Accelerating Apsara vSwitch in Alibaba Cloud
-X Li, X Jiang, Y Yang, L Chen, Y Wang, C Wang, C Xu, Y Lv, B Yang, ...
-Proceedings of the ACM SIGCOMM 2024 Conference, 750-763		2024
-  -->
-<!--  
+  <p style="line-height:0;">
+  X Li, X Jiang, Y Yang, L Chen, Y Wang, C Wang, C Xu, Y Lv, B Yang, T Wu, H Gao, Z Zhen, Y Qiao, H Ding, 
+  </p>  
+  <p style="line-height:0;">
+  Y Dong, H, Yang, J Song, J Lu, P Zhang, <b>C Wei<sup>*</sup></b>, Z Zhang, W Chen<sup>*</sup>, Q He, S Zhu<sup>*</sup>
+  
+  Proceedings of the ACM SIGCOMM 2024 Conference, 750-763		2024
+  </p>  
+ 
 - CMDRL: A Markovian Distributed Rate Limiting Algorithm in Cloud Networks
   <p style="line-height:0;">
-  L Chen, X Jiang, X Hu, T Xu, Y Yang, X Li, B Lu,<b> C Wei</b>, W Chen
+  L Chen, X Jiang, X Hu, T Xu, Y Yang, X Li, B Lu,<b> C Wei<sup>*</sup></b>, W Chen<sup>*</sup>
 
   Proceedings of the 8th Asia-Pacific Workshop on Networking, 59-66		2024
-  </p> -->
+  </p>
  
 - HydraRPC:RPC in the CXL Era
   <p style="line-height:0;">
@@ -52,91 +65,86 @@ Proceedings of the ACM SIGCOMM 2024 Conference, 750-763		2024
  
 - Securely sampling discrete Gaussian noise for multi-party differential privacy
   <p style="line-height:0;">
-  <b>C Wei</b>, R Yu, Y Fan, W Chen, T Wang
+  <b>C Wei</b>, R Yu, Y Fan, W Chen<sup>*</sup>, T Wang<sup>*</sup>
 
   Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security		
    </p>
  
 - Dpmlbench: Holistic evaluation of differentially private machine learning
   <p style="line-height:0;">
-  <b>C Wei</b>, M Zhao, Z Zhang, M Chen, W Meng, B Liu, Y Fan, W Chen
+  <b>C Wei</b>, M Zhao, Z Zhang, M Chen, W Meng, B Liu, Y Fan, W Chen<sup>*</sup>
 
   Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security	
    </p>
    
 - Examining the effects of a real-time, knowledge-aware tool for academic writing assessment
   <p style="line-height:0;">
-  X Li, F Ouyang, J Liu, <b>C Wei</b>, W Chen
+  X Li, F Ouyang, J Liu, <b>C Wei<sup>*</sup></b>, W Chen<sup>*</sup>
 
   Journal of Educational Computing Research 61 (6), 1143-1174	
    
 - Achelous: Enabling Programmability, Elasticity, and Reliability in Hyperscale Cloud Networks
   <p style="line-height:0;">
-  <b>C Wei</b>, X Li, Y Yang, X Jiang, T Xu, B Yang, T Wu, C Xu, Y Lv, H Gao, ...
+  <b>C Wei</b>, X Li, Y Yang, X Jiang, T Xu, B Yang, T Wu, C Xu, Y Lv, H Gao, Z Zhang, Z Chen, Z Wang, Z Zhang, 
+  </p><p style="line-height:0;">
+  S Zhu<sup>*</sup>, W Chen<sup>*</sup>
 
   Proceedings of the ACM SIGCOMM 2023 Conference, 769-782	
    </p>
-<!--  
-- Poster: Triton: Accelerating vSwitch with Flexibility through Hardware Assisting not Bypassing Software
-  <p style="line-height:0;">
-  X Li, X Jiang, Y Yang, L Chen, T Xu, C Xu, L Xiao, F Shi, Y Wang, T Wu, ...
 
-  Proceedings of the ACM SIGCOMM 2023 Conference, 1156-1158	
-   </p>
-    -->
 - Lmsanitator: Defending prompt-tuning against task-agnostic backdoors
   <p style="line-height:0;">
-  <b>C Wei</b>, W Meng, Z Zhang, M Chen, M Zhao, W Fang, L Wang, Z Zhang, ...
+  <b>C Wei</b>, W Meng, Z Zhang, M Chen, M Zhao, W Fang, L Wang, Z Zhang, W Chen<sup>*</sup>
 
   arXiv preprint arXiv:2308.13904	
    </p>
  
 - EduNER: a Chinese named entity recognition dataset for education research
   <p style="line-height:0;">
-  X Li, <b>C Wei</b>, Z Jiang, W Meng, F Ouyang, Z Zhang, W Chen
+  X Li, <b>C Wei</b>, Z Jiang, W Meng, F Ouyang, Z Zhang, W Chen<sup>*</sup>
 
   Neural Computing and Applications 35 (24), 17717-17731	
    </p>
-<!--    
+   
 - Hyq: Hybrid i/o queue architecture for nvme over fabrics to enable high-performance hardware offloading
   <p style="line-height:0;">
-  Y Chen, J Chen, Y Wang, Y Chen, Z Jin, J Xu, G Fang, W Lin, <b>C Wei</b>, ...
+  Y Chen, J Chen, Y Wang, Y Chen, Z Jin, J Xu, G Fang, W Lin, <b>C Wei<sup>*</sup></b>, W Chen<sup>*</sup>
 
   2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing	
    </p>
- 
+<!--  
 - High-performance and Scalable Software-based NVMe Virtualization Mechanism with I/O Queues Passthrough
   <p style="line-height:0;">
-  Y Chen, Z Jin, Y Wang, Y Chen, H Yu, J Xu, J Chen, W Lin, K Fang, <b>C Wei</b>, ...
+  Y Chen, Z Jin, Y Wang, Y Chen, H Yu, J Xu, J Chen, W Lin, K Fang, <b>C Wei<sup>*</sup></b>, ...
 
   arXiv preprint arXiv:2304.05148	
    </p> -->
 
 - BM-Store: A Transparent and High-performance Local Storage Architecture for Bare-metal Clouds Enabling Large-scale Deployment
   <p style="line-height:0;">
-  Y Chen, J Xu, <b>C Wei</b>, Y Wang, X Yuan, Y Zhang, X Yu, Y Chen, Z Wang, ...
+  Y Chen, J Xu, <b>C Wei</b>, Y Wang, X Yuan, Y Zhang, X Yu, Y Chen, Z Wang, S He<sup>*</sup>, W Chen<sup>*</sup>
 
   2023 IEEE International Symposium on High-Performance Computer Architecture	
   </p>
 
 - Cuzk: Accelerating zero-knowledge proof with a faster parallel multi-scalar multiplication algorithm on gpus
     <p style="line-height:0;">
-    T Lu, <b>C Wei</b>, R Yu, C Chen, W Fang, L Wang, Z Wang, W Chen
+    T Lu, <b>C Wei</b>, R Yu, C Chen, W Fang, L Wang, Z Wang<sup>*</sup>, W Chen<sup>*</sup>
 
-    Cryptology ePrint Archive		
+    2023 IACR Transactions on Cryptographic Hardware and Embedded Systems
     </p>
 
  
 - AsgLDP: Collecting and generating decentralized attributed graphs with local differential privacy
   <p style="line-height:0;">
-  <b>C Wei</b>, S Ji, C Liu, W Chen, T Wang
+  <b>C Wei</b>, S Ji, C Liu, W Chen<sup>*</sup>, T Wang<sup>*</sup>
 
   IEEE Transactions on Information Forensics and Security 15, 3239-3254	  
    </p>
  
 - OB-WSPES: A uniform evaluation system for obfuscation-based web search privacy
   <p style="line-height:0;">
-  <b>C Wei</b>, Q Gu, S Ji, W Chen, Z Wang, R Beyah
+  <b>C Wei</b>, Q Gu, S Ji<sup>*</sup>, W Chen, Z Wang<sup>*</sup>, R Beyah
 
   IEEE Transactions on Dependable and Secure Computing 18 (6), 2719-2735
   </p>
