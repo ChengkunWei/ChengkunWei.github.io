@@ -76,14 +76,14 @@ Proceedings of the ACM SIGCOMM 2024 Conference, 750-763		2024
 
   Proceedings of the ACM SIGCOMM 2023 Conference, 769-782	
    </p>
- 
+<!--  
 - Poster: Triton: Accelerating vSwitch with Flexibility through Hardware Assisting not Bypassing Software
   <p style="line-height:0;">
   X Li, X Jiang, Y Yang, L Chen, T Xu, C Xu, L Xiao, F Shi, Y Wang, T Wu, ...
 
   Proceedings of the ACM SIGCOMM 2023 Conference, 1156-1158	
    </p>
-   
+    -->
 - Lmsanitator: Defending prompt-tuning against task-agnostic backdoors
   <p style="line-height:0;">
   <b>C Wei</b>, W Meng, Z Zhang, M Chen, M Zhao, W Fang, L Wang, Z Zhang, ...
@@ -97,7 +97,7 @@ Proceedings of the ACM SIGCOMM 2024 Conference, 750-763		2024
 
   Neural Computing and Applications 35 (24), 17717-17731	
    </p>
-   
+<!--    
 - Hyq: Hybrid i/o queue architecture for nvme over fabrics to enable high-performance hardware offloading
   <p style="line-height:0;">
   Y Chen, J Chen, Y Wang, Y Chen, Z Jin, J Xu, G Fang, W Lin, <b>C Wei</b>, ...
@@ -110,7 +110,7 @@ Proceedings of the ACM SIGCOMM 2024 Conference, 750-763		2024
   Y Chen, Z Jin, Y Wang, Y Chen, H Yu, J Xu, J Chen, W Lin, K Fang, <b>C Wei</b>, ...
 
   arXiv preprint arXiv:2304.05148	
-   </p>
+   </p> -->
 
 - BM-Store: A Transparent and High-performance Local Storage Architecture for Bare-metal Clouds Enabling Large-scale Deployment
   <p style="line-height:0;">
