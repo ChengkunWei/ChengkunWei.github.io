@@ -25,15 +25,10 @@ I recieved my PhD degree in the Computer Science department of Zhejiang Universi
 <!-- 
 [<img src="arclab.png" style="max-width:50%;min-width:50px;float:right;" alt="chengkun wei" />](http://arc.zju.edu.cn/) -->
 
-I've joined [ZJU ArcLab](http://arc.zju.edu.cn/) since 2016. Our lab welcome PhD/master/undergraduate students who are interested in data security (LLM security), high performance network ( cooperative optimization of software and hardware), heterogeneous computing (FPGA, GPU), system architecture (virtualization, trusted execution environment), etc.
+I've joined [ZJU ArcLab](http://arc.zju.edu.cn/) since 2016. Our lab welcomes PhD/master/undergraduate students who are interested in data security (LLM security), high performance network ( cooperative optimization of software and hardware), heterogeneous computing (FPGA, GPU), system architecture (virtualization, trusted execution environment), etc.
 
-<p style="line-height:0;">
-I sincerely hope to cooperate with students who:
+I sincerely hope to cooperate with students who: 1) have interest in computer system. 2) have ideals and pursuits, and can analyze problems well. 3) have a favorite sport and stick to it.
 
-- have interest in computer system.
-- have ideals and pursuits, and can analyze problems well.
-- have a favorite sport and stick to it.
-</p>  
 
 ---
 ## [Publications](https://scholar.google.com/citations?hl=zh-CN&user=-jrGj9wAAAAJ)
